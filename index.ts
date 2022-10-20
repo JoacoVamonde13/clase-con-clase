@@ -106,5 +106,6 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
+      console.log("vino otra persona mala y metio mano aca");
   }
   main();
